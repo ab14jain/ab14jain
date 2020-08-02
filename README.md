@@ -1,5 +1,7 @@
 ### Hi, I'm Abhishek 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab14jain&label=Views&color=green&style=plastic" alt="ab14jain" /> </p>
+
 <a href="https://twitter.com/jainabhishek24" target="_blank">
   <img align="left" alt="Abhishek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

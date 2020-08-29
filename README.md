@@ -2,14 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab14jain&label=Views&color=green&style=plastic" alt="ab14jain" /> </p>
 
-<a href="https://twitter.com/jainabhishek24" target="_blank">
+<a href="https://twitter.com/jainabhishek90" target="_blank">
   <img align="left" alt="Abhishek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/ab14jain" target="_blank">
+<a href="https://www.linkedin.com/in/jainabhishek90/" target="_blank">
   <img align="left" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ab14jain" target="_blank">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Abhishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 
@@ -24,8 +24,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-[![Twitter: jainabhishek24](https://img.shields.io/twitter/follow/jainabhishek24?style=social)](https://twitter.com/jainabhishek24)
-[![Linkedin: ab14jain](https://img.shields.io/badge/-ab14jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ab14jain/)](https://www.linkedin.com/in/ab14jain/)
+[![Twitter: jainabhishek90](https://img.shields.io/twitter/follow/jainabhishek24?style=social)](https://twitter.com/jainabhishek90)
+[![Linkedin: jainabhishek90](https://img.shields.io/badge/-ab14jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainabhishek90/)](https://www.linkedin.com/in/jainabhishek90/)
 [![GitHub ab14jain](https://img.shields.io/github/followers/ab14jain?label=follow&style=social)](https://github.com/ab14jain)
 
 **Languages and Tools:**  

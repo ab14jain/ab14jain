@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Microsoft Graph, Azure
 - 👯 I’m looking to collaborate on Community Contributions
 - 💬 Ask me about Office365, SharePoint Framework Development, Microsoft Graph
-- 📫 How to reach me: [Linkedin @ab14jain](www.linkedin.com/in/jainabhishek90)
+- 📫 How to reach me: [Linkedin @jainabhishek90](https://www.linkedin.com/in/jainabhishek90/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
